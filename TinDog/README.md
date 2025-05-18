@@ -56,9 +56,10 @@ TinDog is a playful, Tinder-inspired landing page for dog lovers, built with mod
 ### Installation
 
 1. **Clone the repository:**
+```
 git clone https://github.com/YOUR-USERNAME/tindog.git
 cd tindog
-
+```
 
 2. **Open the project:**
 - Open `index.html` in your browser.
