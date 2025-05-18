@@ -1,6 +1,5 @@
 # TinDog
 
-Welcome to the **TinDog** project!  
 TinDog is a playful, Tinder-inspired landing page for dog lovers, built with modern HTML5 and Bootstrap 5. This project is perfect for learning responsive web design, Bootstrap components, and landing page best practices.
 
 ---
