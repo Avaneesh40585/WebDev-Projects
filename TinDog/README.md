@@ -56,7 +56,8 @@ TinDog is a playful, Tinder-inspired landing page for dog lovers, built with mod
 ### Installation
 
 1. **Clone the repository:**
-git clone https://github.com/YOUR-USERNAME/tindog.git cd tindog
+git clone https://github.com/YOUR-USERNAME/tindog.git
+cd tindog
 
 
 2. **Open the project:**
@@ -70,7 +71,17 @@ Edit `/css/style.css` or images in `/images` to customize.
 
 ## Folder Structure
 
-tindog/ │ ├── index.html ├── css/ │   └── style.css └── images/ ├── iphone.png ├── dog-img.jpg ├── mashable.png ├── techcrunch.png ├── tnw.png └── bizinsider.png
+tindog/
+├── index.html
+├── css/
+│   └── style.css
+└── images/
+    ├── iphone.png
+    ├── dog-img.jpg
+    ├── mashable.png
+    ├── techcrunch.png
+    ├── tnw.png
+    └── bizinsider.png
 
 
 
