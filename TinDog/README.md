@@ -71,6 +71,7 @@ Edit `/css/style.css` or images in `/images` to customize.
 
 ## Folder Structure
 
+<pre>
 tindog/
 ├── index.html
 ├── css/
@@ -82,6 +83,8 @@ tindog/
     ├── techcrunch.png
     ├── tnw.png
     └── bizinsider.png
+</pre>
+
 
 
 
