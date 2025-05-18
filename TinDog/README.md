@@ -42,7 +42,9 @@ TinDog is a playful, Tinder-inspired landing page for dog lovers, built with mod
 
 ## Screenshots
 
-> _Add screenshots of your site here!_
+<img width="1351" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f9ebc258-5d6d-45e0-b425-47118cf06030" />
+<img width="1391" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1b8d5b88-da91-4fa3-8cc2-9d273d24f81d" />
+<img width="1446" alt="Screenshot 3" src="https://github.com/user-attachments/assets/07fe24b1-5857-4755-be39-1d646fb2e95f" />
 
 ---
 
@@ -85,8 +87,6 @@ tindog/
     ├── tnw.png
     └── bizinsider.png
 </pre>
-
-
 
 
 ---
@@ -133,7 +133,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact the author.
+For any questions or suggestions, feel free to open an issue or contact me.
 
 ---
 
