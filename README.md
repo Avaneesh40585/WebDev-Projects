@@ -10,4 +10,4 @@ Whether you’re here to explore, collaborate, or just see what I’ve been up t
 
 | Project | Description | Frameworks Involved | Link |
 |---------|-------------|---------------------|------|
-| TinDog  | A Tinder-inspired landing page for dog lovers featuring responsive design, pricing plans, testimonials, and download links. | HTML5, Bootstrap 5, CSS3 | [TinDog](./TinDog) |
+| TinDog  | A Tinder-inspired landing page for dog lovers featuring responsive design, pricing plans, testimonials, and download links. | HTML5, Bootstrap 5, CSS3 | [TinDog](https://github.com/Avaneesh40585/TinDog) |
