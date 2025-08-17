@@ -16,11 +16,13 @@ Whether you’re here to explore, collaborate, or just see what I’ve been up t
 | [Secrets App](https://github.com/Avaneesh40585/Secrets-App) | A modern anonymous secret-sharing application with local and Google OAuth authentication, featuring a rotating secrets carousel and Material Design UI. | Node.js, Express.js, PostgreSQL, Passport.js, bcrypt, EJS, Google OAuth2, Material Design CSS |
 
 
+
+
 ## Projects Covered
 
 | Project | Description | Tools/Frameworks Involved | Live Site |
 |---------|-------------|---------------------------|-----------|
-| [TinDog](https://github.com/Avaneesh40585/TinDog) | A Tinder-inspired landing page for dog lovers featuring responsive design, pricing plans, testimonials, and download links. | HTML5, Bootstrap 5, CSS3 | [Launch TinDog](https://avaneesh40585.github.io/TinDog/) |
+| [TinDog](https://github.com/Avaneesh40585/TinDog) | A Tinder-inspired landing page for dog lovers featuring responsive design, pricing plans, testimonials, and download links. | HTML5, Bootstrap 5, CSS3 | [<img width="2048" height="2048" alt="open-in-new-svgrepo-com" src="https://github.com/user-attachments/assets/7a5e9e7d-ae50-4eef-9a61-6bed680f7828" />](https://avaneesh40585.github.io/TinDog/) |
 | [Keeper App](https://github.com/Avaneesh40585/Keeper-App) | A Google Keep-inspired note-taking app with React and Material UI. Users can add, view, and delete notes. | React, Material UI, CSS3, HTML5 | [Open Keeper App](https://avaneesh40585.github.io/Keeper-App/) |
 | [ToDo List](https://github.com/Avaneesh40585/ToDo-List) | A full-stack task management application with CRUD operations. Users can add, edit, delete, and view tasks with persistent PostgreSQL storage. | Node.js, Express.js, PostgreSQL, EJS, HTML5, CSS3 | [View ToDo App](https://todo-list-app-gllq.onrender.com) |
 | [Secrets App](https://github.com/Avaneesh40585/Secrets-App) | A modern anonymous secret-sharing application with local and Google OAuth authentication, featuring a rotating secrets carousel and Material Design UI. | Node.js, Express.js, PostgreSQL, Passport.js, bcrypt, EJS, Google OAuth2, Material Design CSS | [Explore Secrets](https://avaneesh40585.github.io/Secrets-App/) |
